@@ -8,6 +8,8 @@ I'm Maks. I am student of computer science at the Poznan University of Technolog
 
 <br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,py,anaconda,sklearn,c,cpp" />
-</p>
+<a href="https://github.com/Skamlo">
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=git,py,anaconda,sklearn,c,cpp" />
+  </p>
+</a>
