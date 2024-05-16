@@ -1,5 +1,7 @@
 
-<img src="hello.svg" width="100%" height="150px" alt="Hi, I'm Maks">
+<a href="https://github.com/Skamlo">
+  <img src="hello.svg" width="100%" height="150px" alt="Hi, I'm Maks">
+</a>
 
 ---
 <br/>
