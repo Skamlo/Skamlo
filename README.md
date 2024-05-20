@@ -12,6 +12,6 @@ I'm Maks. I am student of computer science at the Poznan University of Technolog
 
 <a href="https://github.com/Skamlo">
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,py,anaconda,sklearn,postgres,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=git,py,anaconda,sklearn,postgres,sqlite,c,cpp" />
   </p>
 </a>
