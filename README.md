@@ -6,7 +6,7 @@
 ---
 <br/>
 
-I'm Maks. I am student of computer science at the Poznan University of Technology. Currently I'm studing topics from data science filed like data analysis, database managment and machine learning.
+I'm Maks. I am student of computer science at the Poznań University of Technology. Currently I'm studying topics from data science filed like data analysis, database managment and machine learning.
 
 <br/>
 
