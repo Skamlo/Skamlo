@@ -10,7 +10,7 @@ I'm Maks. I am student of computer science at the Poznan University of Technolog
 
 <br/>
 
-<p align="center" display="flex">
+<p align="center" display="flex" text-decoration="none">
   <a href="https://github.com/Skamlo"> <img src="https://skillicons.dev/icons?i=py" /> </a>
   <a href="https://github.com/Skamlo"> <img src="./icons/Numpy-Dark.svg" height=50px /> </a>
   <a href="https://github.com/Skamlo"> <img src="./icons/Pandas-Dark.svg" height=50px /> </a>
