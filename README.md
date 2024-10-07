@@ -15,7 +15,6 @@ I'm Maks. I am student of computer science at the Poznan University of Technolog
   <a href="https://github.com/Skamlo"> <img src="./icons/Pandas-Dark.svg" height=50px /> </a>
   <a href="https://github.com/Skamlo"> <img src="./icons/Matplotlib-Dark.svg" height=50px /> </a>
   <a href="https://github.com/Skamlo"> <img src="https://skillicons.dev/icons?i=sklearn" /> </a>
-  <a href="https://github.com/Skamlo"> <img src="https://skillicons.dev/icons?i=pytorch" /> </a>
   <a href="https://github.com/Skamlo"> <img src="https://skillicons.dev/icons?i=c" /> </a>
   <a href="https://github.com/Skamlo"> <img src="https://skillicons.dev/icons?i=cpp" /> </a>
   <a href="https://github.com/Skamlo"> <img src="https://skillicons.dev/icons?i=postgres" /> </a>
