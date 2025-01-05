@@ -10,15 +10,17 @@ I'm Maks. I am artificial intelligence student at the Poznan University of Techn
 <br/>
 
 <p align="center" display="flex" text-decoration="none">
-  <a href="https://github.com/Skamlo"> <img src="https://skillicons.dev/icons?i=py" /> </a>
-  <a href="https://github.com/Skamlo"> <img src="./icons/Numpy-Dark.svg" height=50px /> </a>
-  <a href="https://github.com/Skamlo"> <img src="./icons/Pandas-Dark.svg" height=50px /> </a>
-  <a href="https://github.com/Skamlo"> <img src="./icons/Matplotlib-Dark.svg" height=50px /> </a>
-  <a href="https://github.com/Skamlo"> <img src="https://skillicons.dev/icons?i=sklearn" /> </a>
-  <a href="https://github.com/Skamlo"> <img src="https://skillicons.dev/icons?i=c" /> </a>
-  <a href="https://github.com/Skamlo"> <img src="https://skillicons.dev/icons?i=cpp" /> </a>
-  <a href="https://github.com/Skamlo"> <img src="https://skillicons.dev/icons?i=postgres" /> </a>
-  <a href="https://github.com/Skamlo"> <img src="https://skillicons.dev/icons?i=sqlite" /> </a>
-  <a href="https://github.com/Skamlo"> <img src="https://skillicons.dev/icons?i=git" /> </a>
-  <a href="https://github.com/Skamlo"> <img src="https://skillicons.dev/icons?i=docker" /> </a>
+  <img src="https://skillicons.dev/icons?i=py" />
+  <img src="./icons/Numpy-Dark.svg" height=50px />
+  <img src="./icons/Pandas-Dark.svg" height=50px />
+  <img src="./icons/Matplotlib-Dark.svg" height=50px />
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="./icons/Langchain-Dark.svg" height=50px />
+  <img src="./icons/ChromaDB-Dark.svg" height=50px />
 </p>
