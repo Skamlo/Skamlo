@@ -1,11 +1,4 @@
-<a href="https://github.com/Skamlo">
-  <img src="hello.svg" width="100%" height="150px" alt="Hi, I'm Maks">
-</a>
-
----
-<br/>
-
-I'm Maks. I am artificial intelligence student at the Poznan University of Technology. Currently I'm studying topics from data science filed like data analysis, database managment and machine learning.
+I'm Maks. I am artificial intelligence student at the Poznań University of Technology. Currently I'm studying topics from data science filed like data analysis, database managment and machine learning.
 
 <br/>
 
